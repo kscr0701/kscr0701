@@ -1,5 +1,17 @@
-## Hi there 👋
+## Hi, I'm Karthik S 👋
 
+** Data Analytics & Data Engineering ** | BBA in Business Analytics & Finance
+Bengaluru, India
+---
+### About Me
+Data professional skilled in building end-to-end analytics pipelines, predictive ML models and enterprise financial/supplychain dashboard
+---
+### Technical Skills
+- **Data Analytics & Engineering:** SQL (SQL Server, BigQuery),Snowflake (Snowpark), Alteryx, Python, Excel
+- **Python Libraries:** pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn, openpyxl, Requests
+- **BI & Enterprise Tools:** Power BI, Looker Studio, Jira, Confluence, SAP S/4HANA
+- **Methodologies:** Agile/Scrum (SFC certified)
+---  
 <!--
 **kscr0701/kscr0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
