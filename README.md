@@ -9,7 +9,7 @@ Data professional skilled in building end-to-end analytics pipelines, predictive
 ### Technical Skills
 - **Data Analytics & Engineering:** SQL (SQL Server, BigQuery),Snowflake (Snowpark), Alteryx, Python, Excel
 - **Python Libraries:** pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn, openpyxl, Requests
-- **Excel Skills:** vlookup, xlookup, Lookup, Power Pivot, Power Query, Pivot Tables, Macro Creation, Conditional formating, Data validation
+- **Excel Skills:** vlookup, xlookup, Lookup, Power Pivot, Power Query, Pivot Tables, Macros Creation, Conditional formating, Data validation
 - **BI & Enterprise Tools:** Power BI, Looker Studio, Jira, Confluence, SAP S/4HANA
 - **Methodologies:** Agile/Scrum (SFC certified)
 ---  
