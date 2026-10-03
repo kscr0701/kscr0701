@@ -12,6 +12,11 @@ Data professional skilled in building end-to-end analytics pipelines, predictive
 - **Excel Skills:** vlookup, xlookup, Lookup, Index/Match, Power Pivot, Power Query, Pivot Tables, Macros Creation, Conditional formatting, Data validation
 - **BI & Enterprise Tools:** Power BI, Looker Studio, Jira, Confluence, SAP S/4HANA
 - **Methodologies:** Agile/Scrum (SFC certified)
+**Domain**
+  ** Finance:
+  ** Logistic & Supply Chain:
+  ** Fintech:
+  ** Other:
 ---  
 <!--
 **kscr0701/kscr0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
