@@ -14,13 +14,14 @@ Data professional skilled in building end-to-end analytics pipelines, predictive
 - **Methodologies:** Agile/Scrum (SFC certified)
 ---
 **Domain**
-  ** Finance:
+---
+ - ** Finance:**
  --- 
-  ** Logistic & Supply Chain:
+ - ** Logistic & Supply Chain:**
  ---
-  ** Fintech:
+ - ** Fintech:**
  ---
-  ** Other:
+ - ** Other:**
 ---  
 <!--
 **kscr0701/kscr0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
